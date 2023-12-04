@@ -1,0 +1,15 @@
+/.dart_tool/
+/.idea/
+/android/
+/build/
+/ios/
+/linux/
+/macos/
+/test/
+/web/
+/windows/
+.metadata
+analysis_options.yaml
+notistodolist.iml
+.flutter-plugins
+.flutter-plugins-dependencies
